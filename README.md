@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ShawnWintIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ShawnWintIT/Configuring-ad)
-  - [Network Security Groups (NSGS) and Inspecting Network Protocols](https://github.com/ShawnWintIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols) 
+  - [Analyzing Network Traffic Using Wireshark] (https://github.com/ShawnWintIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols) 
   - [Building Intuition for DNS](https://github.com/ShawnWintIT/Building-Intuition-for-DNS)
   - [Network File Shares and Permissions](https://github.com/ShawnWintIT/Network-File-Shares-and-Permissions)
     
